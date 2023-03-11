@@ -22,3 +22,4 @@ print("Today's date is: " + str(date.today())) # hay que decir que date.today() 
 parsecs = 11
 lightyears = parsecs * 3.26
 print(str(parsecs) + "parsecs is " + str(lightyears) + "lightyears")
+
